@@ -1,0 +1,31 @@
+
+Package PKG_KREDIT compiled
+
+
+Package Body PKG_KREDIT compiled
+
+
+Package PKG_BANK compiled
+
+
+Package Body PKG_BANK compiled
+
+
+Package Body PKG_BANK compiled
+
+
+Table BALANS_AUDIT created.
+
+
+Trigger TRG_BALANS_AUDIT compiled
+
+
+1 row updated.
+
+
+Trigger TRG_ODENISLER_CHECK compiled
+
+LINE/COL  ERROR
+--------- -------------------------------------------------------------
+15/1      PLS-00103: Encountered the symbol "END" when expecting one of the following:     ; The symbol ";" was substituted for "END" to continue. 
+Errors: check compiler log
